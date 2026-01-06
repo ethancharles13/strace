@@ -1,4 +1,5 @@
-This is an implementation of strace for the xv6 operating system.
+This is an implementation of strace for the xv6 operating system. Please see
+the technical write up [here](./OS_Final_Project_Write_Up.pdf).
 
 ####################Original Readme#######################
 
